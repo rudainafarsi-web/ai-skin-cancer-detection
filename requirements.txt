@@ -1,0 +1,5 @@
+tensorflow
+tflite-runtime
+opencv-python
+numpy
+PyQt5
