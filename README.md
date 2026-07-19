@@ -82,9 +82,12 @@ This repository currently includes the dataset preparation and image augmentatio
 
 The full dataset, Firebase credentials, patient information, private configuration files, and model files are intentionally not included.
 
+
 ## Image Gallery
 
-Project images will be added only after review to ensure they do not contain personal, patient, credential, or private system information.
+### Embedded AI Prototype
+
+![Embedded AI prototype with Orange Pi, USB camera, display, and custom enclosure](images/ai-prototype.jpg)
 
 ## Running the Code
 
