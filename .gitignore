@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Firebase / Google service account credentials
+firebase-adminsdk*.json
+serviceAccountKey.json
+google-services.json
+
+# Models and large generated files
+*.h5
+*.keras
+*.tflite
+*.onnx
+*.ckpt
+checkpoints/
+models/
+
+# Datasets and medical images
+dataset/
+data/
+ISIC/
+*.csv
+*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
