@@ -87,7 +87,7 @@ The full dataset, Firebase credentials, patient information, private configurati
 
 ### Embedded AI Prototype
 
-![Embedded AI prototype with Orange Pi, USB camera, display, and custom enclosure](images/ai-prototype.jpg)
+![Embedded AI prototype with Orange Pi, USB camera, display, and custom enclosure](images/ai-prototype.jpg.PNG)
 
 ## Running the Code
 
